@@ -1,4 +1,4 @@
-# Instagram Year Progress Bot
+# 🤖 Instagram Year Progress Bot 🤖
 
 ## Follow the bot on [Instagram](https://instagram.com/yearprogress)
 
