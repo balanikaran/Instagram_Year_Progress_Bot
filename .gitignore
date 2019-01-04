@@ -1,0 +1,6 @@
+# Ignoring Python cache files
+__pycache__/
+
+# Ignoring VSCode files
+.vscode/settings.json
+
